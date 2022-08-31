@@ -94,9 +94,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "ProyectoFinalIntegrador/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "ProyectoFinalIntegrador/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           }
         }
       }
