@@ -1,0 +1,17 @@
+.row{
+    padding: 20px;
+    background: #a1b5cb;
+}
+.container{
+    width: auto;
+}
+
+.texto, .imagen{ 
+    display: inline-block;
+    text-align:justify;
+}
+
+.isdbtimg{
+    box-shadow: 10px 10px 5px black;
+    border-radius:21%;
+}
