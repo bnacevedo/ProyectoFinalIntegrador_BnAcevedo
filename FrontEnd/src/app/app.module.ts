@@ -19,6 +19,7 @@ import { LoginComponent } from './components/login/login.component';
 import { FormsModule } from '@angular/forms';
 import { interceptorProvider } from './service/interceptor-service';
 import { NuevaExpComponent } from './components/experiencia/nueva-exp.component';
+import { EditExpComponent } from './components/experiencia/edit-exp.component';
 
 
 @NgModule({
@@ -35,7 +36,8 @@ import { NuevaExpComponent } from './components/experiencia/nueva-exp.component'
     FooterComponent,
     HomeComponent,
     LoginComponent,
-    NuevaExpComponent
+    NuevaExpComponent,
+    EditExpComponent
 
   ],
   imports: [
