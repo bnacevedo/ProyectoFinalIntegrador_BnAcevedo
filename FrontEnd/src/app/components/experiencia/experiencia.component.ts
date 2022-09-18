@@ -35,7 +35,7 @@ export class ExperienciaComponent implements OnInit {
         data => {
           this.cargarExp();
         }, err => {
-          alert("No se pudo borrar la experiencia");
+          alert("No se pudo borrar");
         }
       )
     }
